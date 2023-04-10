@@ -1,11 +1,12 @@
 # Knitter's Nook
-<p align="center"><img alt="React Components" src="./react_components.png" /></p>
+<p align="center"><img src="./banner.png" /></p>
 
 
 ## Set Up
 1. After you fork and clone this repository, open up the directory on your computer.
-1. Scaffold a React app by running `npx create-react-app knitting`
+1. Scaffold a React app called `knitting` using vite.
     - **NOTE:** This will create a new folder called `knitting` and build the react app inside it.
+1. `cd` into `knitting`
 1. Remove all the excessive files and code we won't use for this assignment:
     ```
     kintters-nook
