@@ -1,4 +1,4 @@
-# React Components
+# Knitter's Nook
 <p align="center"><img alt="React Components" src="./react_components.png" /></p>
 
 
