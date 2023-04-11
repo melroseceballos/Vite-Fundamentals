@@ -1,0 +1,45 @@
+body::-webkit-scrollbar{
+    display: none;
+   
+}
+body{
+    background-color: rgb(247, 221, 230);
+    background-image: url("https://i.pinimg.com/originals/8b/7f/bc/8b7fbc2e623720393ad7ffa7e4896eac.gif");
+    background-repeat: repeat;
+    background-size: 1500px 1100px;
+    background-position: center center;
+    
+}
+
+li{
+    display: flex;
+    margin-top: 10rem;
+}
+.stitch-cards{
+    display: flex;
+    margin-bottom: 10rem !important;
+    flex-direction: column;
+    height: 35rem;
+    padding-bottom: 2rem;
+    width: 20rem;
+    text-align: center;
+    margin-top: 15rem;
+    align-items: center;
+    justify-content: center;
+    margin-left: 32rem;
+    border: 10px double rgba(231, 121, 207, 0.85);
+    height: 22rem;
+    background-color: rgba(144, 237, 184, 0.55);
+    margin-bottom: 3rem;
+    padding-top: 1rem;
+    color: palevioletred;
+}
+.stitch-title{
+    width: 20rem;
+    height: 20rem;
+    color: palevioletred;
+}
+.stitch-image{
+    height: 200px;
+    width: 300px;
+}

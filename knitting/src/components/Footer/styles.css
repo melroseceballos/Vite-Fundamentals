@@ -1,0 +1,38 @@
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: 5rem;
+    background-color: rgba(232, 81, 174, 0.45);
+    color: white;
+    color: rgb(6, 161, 53);
+}
+.meta-logo{
+    height: 40px;
+    width: 60px;
+    margin-right: 5rem;
+    padding-top: 1rem;
+    display: inline-block;
+}
+.twit-logo{
+    height: 40px;
+    width: 50px;
+    margin-left: -9rem;
+}
+.insta-logo{
+    height: 50px;
+    width: 50px;
+    margin-top: 0.5rem;
+}
+.you-logo{
+    height: 40px;
+    width: 50px;
+}
+
+
+footer p, footer a{
+    display: inline-block;
+    vertical-align: middle;
+}
